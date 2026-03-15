@@ -19,9 +19,11 @@ authors:
     given-names: Denise M.
     orcid: "https://orcid.org/0000-0001-6165-7389"
     affiliation: "Northwest Missouri State University, USA"
-
-repository-code: "https://github.com/denisecase/nlp-01-getting-started"
-url: "https://github.com/denisecase/nlp-01-getting-started"
+  - family-names: David
+    given-names: Jakiel
+    affiliation: "Northwest Missouri State University, USA"
+repository-code: "https://github.com/ss2jak/nlp-getting-started"
+url: "https://github.com/ss2jak/nlp-getting-started"
 license: MIT
 
 abstract: |
